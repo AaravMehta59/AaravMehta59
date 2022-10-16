@@ -15,6 +15,15 @@
 
 - ⚡ Fun fact **I am lazy.. :|**
 
+```js
+const Aarav = {
+    FullName: "Aarav Mehta" ,
+    Description: "Hello, My name is Aarav 😉. A Full Stack Developer from India.",
+    FavouriteLanguage: "Javascript/Typescript",
+    FavouriteThings: ["GitHub <3", "VS Code", "React.js", "Docker", "Node.js"]
+}; //I'm a Object. UwU
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
