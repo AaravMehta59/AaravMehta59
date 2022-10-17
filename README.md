@@ -1,7 +1,7 @@
 ㅤ<h1 align="center">Hi 👋, I'm Aarav Mehta</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 
-- 🔭 I’m currently working on **HTML5**
+- 🔭 I’m currently working in **Pixel Codez**
 
 - 🌱 I’m currently learning **Ruby**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Javascript and HTML**
 
-- 📫 How to reach me **aaravmehta59@outlook.com**
+- 📫 How to reach me [Website](https://PixelCodez.github.com/)
 
 - ⚡ Fun fact **I am lazy.. :|**
 
