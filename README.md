@@ -1,6 +1,8 @@
 ㅤ<h1 align="center">Hi 👋, I'm Aarav Mehta</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
+
 ![](https://komarev.com/ghpvc/?username=AaravMehta59&style=flat-square)
+
 - 🔭 I’m currently working in **Pixel Codez**
 
 - 🌱 I’m currently learning **Ruby**
