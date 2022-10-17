@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Javascript and HTML**
 
-- 📫 How to reach me [Website](https://PixelCodez.github.com/)
+- 📫 How to reach me [Website](https://PixelCodez.github.io/)
 
 - ⚡ Fun fact **I am lazy.. :|**
 
