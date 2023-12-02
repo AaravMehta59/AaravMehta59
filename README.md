@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaravmehta59&show_icons=true&theme=dark&locale=en&layout=compact" alt="aaravmehta59" /></p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1139179959965982800)](https://discord.com/users/1139179959965982800)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1139179959965982800?borderRadius=30px&idleMessage=May%20the%20code%20be%20with%20you...)](https://discord.com/users/1139179959965982800)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaravmehta59&show_icons=true&theme=dark&locale=en" alt="aaravmehta59" /></p>
