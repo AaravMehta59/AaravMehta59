@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarav Mehta</h1>
-<h3 align="center">A 16-year-old passionate full-stack developer from India</h3>
+<h3 align="center">A 15-year-old passionate full-stack developer doing exams from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaravmehta59&label=People%20who%20bothered%20to%20come%20here&color=000000&style=flat-square" alt="aaravmehta59" /> </p>
 
