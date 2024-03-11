@@ -5,17 +5,11 @@
 
 
 
-- 🔭 I’m currently on a break [Due to Exams](https://en.wikipedia.org/wiki/Exam)
+- 🔭 I’m currently on a mission to do **nothing**
 
-- 🌱 I’m currently learning **Laws of Floatation**
+- 👯 I’m looking to collaborate on **Almost Anything Tech Related**
 
-- 👯 I’m looking to collaborate on [Almost Anything Exam Related](https://en.wikipedia.org/wiki/Exam)
-
-- 🤝 I’m looking for help with [Exams](https://en.wikipedia.org/wiki/Exam)
-
-- 💬 Ask me about **Maths**
-
-- 📫 How to reach me **youcantreachme@aaravm.me**
+- 📫 How to reach me **discord :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
